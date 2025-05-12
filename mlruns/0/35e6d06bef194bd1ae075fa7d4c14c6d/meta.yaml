@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/detection_lung_cancer/mlruns/0/35e6d06bef194bd1ae075fa7d4c14c6d/artifacts
+end_time: 1747079058906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35e6d06bef194bd1ae075fa7d4c14c6d
+run_name: angry-crab-125
+run_uuid: 35e6d06bef194bd1ae075fa7d4c14c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747079051168
+status: 3
+tags: []
+user_id: Hp

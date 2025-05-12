@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/detection_lung_cancer/mlruns/0/01ac3d267af645de9dece920593b4121/artifacts
+end_time: 1747078455861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01ac3d267af645de9dece920593b4121
+run_name: nimble-shrike-510
+run_uuid: 01ac3d267af645de9dece920593b4121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747078445417
+status: 3
+tags: []
+user_id: Hp
